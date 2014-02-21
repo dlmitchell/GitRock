@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>com_apple_garageband_metadata_albumName</key>
-	<string>Aaron Mcguire's Album</string>
+	<string>David Mitchell's Album</string>
 	<key>com_apple_garageband_metadata_artistName</key>
 	<string>David Mitchell</string>
 	<key>com_apple_garageband_metadata_composer</key>
@@ -15,13 +15,13 @@
 	<key>com_apple_garageband_metadata_numberOfArrangeTracks</key>
 	<integer>9</integer>
 	<key>com_apple_garageband_metadata_numberOfRITracks</key>
-	<integer>6</integer>
+	<integer>5</integer>
 	<key>com_apple_garageband_metadata_numberOfSITracks</key>
-	<integer>3</integer>
+	<integer>4</integer>
 	<key>com_apple_garageband_metadata_parentalAdvisory</key>
 	<string>None</string>
 	<key>com_apple_garageband_metadata_songDuration</key>
-	<real>31</real>
+	<real>52</real>
 	<key>com_apple_garageband_metadata_songGender</key>
 	<string>major</string>
 	<key>com_apple_garageband_metadata_songKey</key>
